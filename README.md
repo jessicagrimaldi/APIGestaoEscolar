@@ -4,18 +4,17 @@
 ## Objetivo da API
 Gerenciar os alunos de uma instituição de ensino.
 
+### Arquitetura da Solução
+![image](https://user-images.githubusercontent.com/85913563/176018277-03081714-8472-4900-8f66-3cb8b3b82de1.png)
+
 ### Funcionalidades
 
 * Consultar todas as turmas
 * Consultar turma pelo ID
-* Incluir turmas
-* Excluir turmas
-* Atualizar turmas
+* Incluir/Excluir/Atualizar turmas
 * Consultar todos os alunos/alunas
 * Consultar aluno/aluna pelo ID
-* Incluir aluno/aluna
-* Excluir aluno/aluna
-* Atualizar aluno/aluna
+* Incluir/Excluir/Atualizar aluno/aluna
 
 ### Regras de Negócio
 
